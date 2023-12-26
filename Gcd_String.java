@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //DAY 2
 class Gcd_String{
 	public static void main(String args[]){
 		Gcd_String gcd_str = new Gcd_String();
