@@ -1,0 +1,8 @@
+mistake
+
+1.list not import
+2.iterate over list missing 
+3." " and () in printfunction
+4. spelling of arraylist
+5.	filename.java uses unchecked or unsafe operations.
+	Note: Recompile with -Xlint:unchecked for details.
